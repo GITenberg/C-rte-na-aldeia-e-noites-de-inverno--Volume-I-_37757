@@ -1,0 +1,30 @@
+_repo: C-rte-na-aldeia-e-noites-de-inverno--Volume-I-_37757
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lobo, Francisco Rodrigues
+    aliases:
+    - Rodrigues Lobo, Francisco
+    - Lobo, Rodrigues
+    birthdate: 1580
+    deathdate: 1622
+    gutenberg_agent_id: '39036'
+    url: http://www.gutenberg.org/2009/agents/39036
+    wikipedia: http://pt.wikipedia.org/wiki/Francisco_Rodrigues_Lobo
+description: ''
+gutenberg_issued: '2011-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37757'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese literature -- Classical period, 1500-1700'
+title: Côrte na aldeia e noites de inverno (Volume I)
+url: http://www.gutenberg.org/ebooks/37757
